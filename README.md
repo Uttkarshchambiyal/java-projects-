@@ -28,7 +28,6 @@ A simple console-based bank account system where a user can:
 
 **Concepts used:** classes & objects, methods, constructors, basic validation, loops, conditionals.
 
-> Code path example: `src/bankaccount/BankAccount.java` (update this once you push code)
 
 ---
 
