@@ -7,6 +7,7 @@
 [![Status](https://img.shields.io/badge/Status-Active%20%F0%9F%9F%A2-brightgreen?style=for-the-badge)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uttkarshchambiyal/java-Small-Projects-)
 
+<!-- updated -->
 > *"The best way to learn programming is to write programs."* — Dennis Ritchie
 
 </div>
